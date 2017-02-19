@@ -1,0 +1,6 @@
+c:\users\borko\documents\visual studio 2015\Projects\RegExercise\RegExercise\bin\Debug\RegExercise.exe.config
+c:\users\borko\documents\visual studio 2015\Projects\RegExercise\RegExercise\bin\Debug\RegExercise.exe
+c:\users\borko\documents\visual studio 2015\Projects\RegExercise\RegExercise\bin\Debug\RegExercise.pdb
+c:\users\borko\documents\visual studio 2015\Projects\RegExercise\RegExercise\obj\Debug\RegExercise.csprojResolveAssemblyReference.cache
+c:\users\borko\documents\visual studio 2015\Projects\RegExercise\RegExercise\obj\Debug\RegExercise.exe
+c:\users\borko\documents\visual studio 2015\Projects\RegExercise\RegExercise\obj\Debug\RegExercise.pdb
